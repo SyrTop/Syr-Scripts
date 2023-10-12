@@ -1,4 +1,4 @@
-https://httpsimage.com/v2/355e7e2a-c76b-44a4-b09b-fe734f3a0ca1.png
+<a href='https://httpsimage.com'><img src='https://httpsimage.com/v2/355e7e2a-c76b-44a4-b09b-fe734f3a0ca1.png'></a>
 ## SyrHub is an script supporting multiple games, made by 1 developer EdxymRBLX, SyrHub is an advaced script for popular games on Roblox Platform such as: Arm Wrestling Simulator, Restaurant Tycoon 2, Starving Artists and more!
 # Script:
 ```lua
